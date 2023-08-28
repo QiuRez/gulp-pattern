@@ -1,0 +1,32 @@
+
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, label {
+	text-decoration: none;
+	font-family: 'Poppins';
+}
+
+input {
+	border: none;
+	font-family: 'Poppins';
+}
+
+button {
+	border: none;
+	font-family: 'Poppins';
+	cursor: pointer;
+}
+
+
+body {
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
